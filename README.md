@@ -24,20 +24,20 @@ AI+X: Deep Learning — Final Project
 
 ## II. Datasets
 
-가상의 화장실 환경에서 이용자 선택 데이터를 생성할 예정이다.
+가상의 화장실 환경에서 이용자 선택 데이터를 생성할 예정.
 
 ## III. Methodology
 
-Q-Learning 또는 K-Means 등 수업에서 배운 알고리즘을 검토하고 있다.
+Q-Learning 또는 K-Means 등 수업에서 배운 알고리즘을 검토중.
 
 ## IV. Evaluation & Analysis
 
-실험 완료 후 결과 그래프와 분석 내용을 추가할 예정이다.
+실험 완료 후 결과 그래프와 분석 내용을 추가할 예정.
 
 ## V. Related Work
 
-관련 연구 및 참고 문헌을 조사할 예정이다.
+관련 연구 및 참고 문헌을 조사할 예정.
 
 ## VI. Conclusion
 
-최종 실험 결과와 한계점을 정리할 예정이다.
+최종 실험 결과와 한계점을 정리할 예정.
