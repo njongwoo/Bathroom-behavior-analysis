@@ -43,10 +43,7 @@ Data 생성 환경 :가장 기본적인 화장실 배치(일렬, 장애인 소�
 
 ## IV. Evaluation & Analysis
 실험가상 이용자 100명 -> 인당 20번 (소변기 4개 일렬 배치)
-"""Generate illustrative synthetic urinal choices for an educational project.
 
-The results describe the assumptions below, not observed human behavior.
-"""
 from pathlib import Path
 
 import matplotlib.pyplot as plt
