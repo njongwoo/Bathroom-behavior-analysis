@@ -60,13 +60,9 @@ SEED = 2026
 OUTPUT_DIR = Path(__file__).resolve().parent
 rng = np.random.default_rng(SEED)
 
-# For illustration: 1 is nearest the door, 4 is farthest.
 distances = np.arange(1, N_URINALS + 1, dtype=float)
 records = []
 
-# Individuals have continuous preferences, NOT assigned cluster labels.
-# A high distance_weight makes nearby stalls more attractive.
-# A high privacy_weight makes a free urinal beside an occupied one less attractive.
 for user_id in range(1, N_USERS + 1):
     distance_weight = float(rng.uniform(0.1, 1.8))
     privacy_weight = float(rng.uniform(0.0, 3.0))
