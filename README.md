@@ -154,6 +154,7 @@ print("Generated user feature rows:", len(summary))
 print("Selections per urinal:", counts.to_dict())
 print("Files saved in:", OUTPUT_DIR)
 
+
 결과: https://chatgpt.com/s/w_6b04253b78e0819192f3e3d5cead6f5d
 분석: 입구에서 가장 가까운 소변기 1번 선택이 963/2000 비율로 많았음 -> 행동 패턴 분석은 아직 미완료
 
