@@ -62,7 +62,6 @@ rng = np.random.default_rng(SEED)
 
 distances = np.arange(1, N_URINALS + 1, dtype=float)
 records = []
-
 for user_id in range(1, N_USERS + 1):
     distance_weight = float(rng.uniform(0.1, 1.8))
     privacy_weight = float(rng.uniform(0.0, 3.0))
